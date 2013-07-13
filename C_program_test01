@@ -1,5 +1,9 @@
 #include <stdio.h>
 
 int main(){
+<<<<<<< HEAD
   printf("_Hello, world_   111");
+=======
+  printf("_Hello, world_");
+>>>>>>> c7c88969c9174621c7becbe5552bc0ede34d2783
 }
